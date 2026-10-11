@@ -1,3 +1,4 @@
+<img width="1200" height="900" alt="log2_count_distribution" src="https://github.com/user-attachments/assets/3e11ac0e-213a-4edd-81ac-8173cd4a9948" />
 **Bulk RNA-seq Exploratory Analysis in R**
 
 Overview - This project explores a gene-level bulk RNA-seq count matrix using R. The aim is to understand the structure and distribution of RNA-seq count data, perform basic exploratory analysis, and identify the limitations of interpreting raw counts across samples.

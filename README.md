@@ -41,8 +41,7 @@ The log2(count + 1) transformation is used for exploratory visualization and is 
 The analysis begins with a precomputed count table; raw-read quality control and alignment are not claimed as part of this project.
 Exploratory Results
 
-**Log2-transformed count distribution**
-The plot below shows the distribution of gene-level counts in the Control and GR1 samples after applying a log2(count + 1) transformation. This transformation makes the count distribution easier to visualize.
+**Log2-transformed count distribution** - The plot below shows the distribution of gene-level counts in the Control and GR1 samples after applying a log2(count + 1) transformation. This transformation makes the count distribution easier to visualize.
 
 Limitation: This is an exploratory comparison of one Control sample and one GR1 sample. It does not establish statistically significant differential expression.
 

@@ -53,8 +53,7 @@ Tools -
 
 References - 
 1. **Liao, Y., Smyth, G. K., & Shi, W. (2014).** featureCounts: an efficient general purpose program for assigning sequence reads to genomic features. *Bioinformatics, 30*(7), 923–930. https://doi.org/10.1093/bioinformatics/btt656
-2. **GENCODE.** Mouse genome annotation, Release M31 (GRCm39). https://www.gencodegenes.org/mouse/release_M31.html
-3. **Love, M. I., Huber, W., & Anders, S. (2014).** Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology, 15*, 550. https://doi.org/10.1186/s13059-014-0550-8
+2. **Love, M. I., Huber, W., & Anders, S. (2014).** Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology, 15*, 550. https://doi.org/10.1186/s13059-014-0550-8
 4. **Schurch, N. J., et al. (2016).** How many biological replicates are needed in an RNA-seq experiment and which differential expression tool should you use? *RNA, 22*(6), 839–851. https://doi.org/10.1261/rna.053959.115
 5. **R Core Team.** R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing. https://www.R-project.org/
 
